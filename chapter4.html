@@ -14,6 +14,24 @@ p    {color: #A0A0A0; font-size: 10pt; margin: 2px; display: none;}
 
 </head>
 <body>
+<div class="nav"> 
+<div class="nav-prev"> 
+<div class="nav-section-link-prev"><a href="chapter3.html">まえ</a></div> 
+<div class="nav-section-name">第3章</div> 
+</div> 
+<div class="nav-next"> 
+<div class="nav-section-link-next"><a href="chapter5.html">つぎ</a></div> 
+<div class="nav-section-name">第5章</div> 
+</div> 
+<div class="nav-title"> 
+<div class="nav-title-title">CLL 第4章 ロジバンの形態論</div> 
+<div class="nav-title-link"><a href="./">目次</a></div> 
+</div> 
+</div>
+<center>
+<img src="./images/chapter4.gif" alt="[Cartoon]"
+      width="405" height="405" />
+</center>
 
 <p>Chapter 4: The Shape Of Words To Come: Lojban Morphology</p>
 
@@ -21,7 +39,7 @@ p    {color: #A0A0A0; font-size: 10pt; margin: 2px; display: none;}
 
 <p>1. Introductory</p>
 
-<h2>1. はじめに</h2>
+<a id="4.1" name="4.1"></a><h2>1. はじめに</h2>
 
 <p>Morphology is the part of grammar that deals with the form of
 words. Lojban's morphology is fairly simple compared to that of many
@@ -132,7 +150,7 @@ names, corresponding to English “James”, “Afghanistan”, and “Pope
 
 <p>2. cmavo</p>
 
-<h2>2. シマヴォ (cmavo)</h2>
+<a id="4.2" name="4.2"></a><h2>2. シマヴォ (cmavo)</h2>
 
 <p>The first group of Lojban words discussed in this chapter are the
 cmavo. They are the structure words that hold the Lojban language
@@ -290,7 +308,7 @@ of the next word is stressed, you must insert a pause or glottal stop
 
 <p>3. brivla</p>
 
-<h2>3. ブリヴラ (brivla)</h2>
+<a id="4.3" name="4.3"></a><h2>3. ブリヴラ (brivla)</h2>
 
 <p>Predicate words, called “brivla”, are at the core of Lojban. They
 carry most of the semantic information in the language. They serve as
@@ -355,7 +373,7 @@ from other languages.</p>
 
 <p>4. gismu </p>
 
-<h2>4. ギスム(gismu)</h2>
+<a id="4.4" name="4.4"></a><h2>4. ギスム(gismu)</h2>
 
 <p>The gismu, or Lojban root words, are those brivla representing
 concepts most basic to the language. The gismu were chosen for various
@@ -443,7 +461,7 @@ language by the number of speakers of that language. See Section 14
 
 <p>5. ルジヴォ (lujvo)</p>
 
-<h2>5. ルジヴォ (lujvo)</h2>
+<a id="4.5" name="4.5"></a><h2>5. ルジヴォ (lujvo)</h2>
 
 <p>When specifying a concept that is not found among the gismu (or, more
 specifically, when the relevant gismu seems too general in meaning), a
@@ -626,7 +644,7 @@ rules for building these compounds, there is a good chance that you
 
 <p>6. rafsi</p>
 
-<h2>6. ラフシ (rafsi)</h2>
+<a id="4.6" name="4.6"></a><h2>6. ラフシ (rafsi)</h2>
 
 <p>Every gismu has from two to five rafsi, each of a different form, but
 each such rafsi represents only one gismu. It is valid to use any of
@@ -921,7 +939,7 @@ really just a notation for writing separate but closely related words
 
 <p>7. fu'ivla</p>
 
-<h2>7. フヒヴラ(fu'ila)</h2>
+<a id="4.7" name="4.7"></a><h2>7. フヒヴラ(fu'ila)</h2>
 
 <p>The use of tanru or lujvo is not always appropriate for very
 concrete or specific terms (e.g.  “brie” or “cobra”), or for
@@ -1208,7 +1226,7 @@ than “Dine'e”.</p>
 
 <p>8. cmene</p>
 
-<h2>8. シメネ (cmene)</h2>
+<a id="4.8" name="4.8"></a><h2>8. シメネ (cmene)</h2>
 
 <p>Lojbanized names, called “cmene”, are very much like their
 counterparts in other languages.  They are labels applied to things
@@ -1455,7 +1473,7 @@ Japanese “Fujiko” fudjikos.
 
 <p>9. Rules for inserting pauses</p>
 
-<h2>9. 休止挿入のルール</h2>
+<a id="4.9" name="4.9"></a><h2>9. 休止挿入のルール</h2>
 
 <p>Summarized in one place, here are the rules for inserting pauses between Lojban words:
 1)
@@ -1496,7 +1514,7 @@ When non-Lojban text is embedded in Lojban, it must be preceded and followed by
 
 <p>10. Considerations for making lujvo</p>
 
-<h2>10. ルジヴォを作る際の注意</h2>
+<a id="4.10" name="4.10"></a><h2>10. ルジヴォを作る際の注意</h2>
 
 <p>Given a tanru which expresses an idea to be used frequently, it can
   be turned into a lujvo by following the lujvo-making algorithm which
@@ -1620,7 +1638,7 @@ that seems plausible. (The grouping of tanru is explained in Chapter
 
 <p>11. The lujvo-making algorithm</p>
 
-<h2>11. ルジヴォ作成アルゴリズム</h2>
+<a id="4.11" name="4.11"></a><h2>11. ルジヴォ作成アルゴリズム</h2>
 
 <p>The following is the current algorithm for generating Lojban lujvo
 given a known tanru and a complete list of gismu and their assigned
@@ -1680,7 +1698,7 @@ right to left, instead of from left to right; when the test is
 required, it cannot be completed until hyphenation to the right has
   been determined.</p>
 
-<h2>12. ルジヴォのスコア付けアルゴリズム</h2>
+<a id="4.12" name="4.12"></a><h2>12. ルジヴォのスコア付けアルゴリズム</h2>
 
 <p>12. The lujvo scoring algorithm</p>
 
@@ -1756,7 +1774,7 @@ zba + zbas + y + sarji
 
 <p>13. lujvo-making examples</p>
 
-<h2>13. ルジヴォ作成の例</h2>
+<a id="4.13" name="4.13"></a>h2>13. ルジヴォ作成の例</h2>
 
 <p>This section contains examples of making and scoring lujvo. First,
 we will start with the tanru “gerku zdani” (“dog house”) and
@@ -1933,15 +1951,15 @@ actually shorter than the four-part lujvo, since the “ke” required
 
 <p>14. The gismu creation algorithm</p>
 
-<h2>14. ギスム生成アルゴリズム</h2>
+<a id="4.14" name="4.14"></a><h2>14. ギスム生成アルゴリズム</h2>
 
 <p>15. Cultural and other non-algorithmic gismu</p>
 
-<h2>15. 文化的・アルゴリズムによらないギスム</h2>
+<a id="4.15" name="4.15"></a><h2>15. 文化的・アルゴリズムによらないギスム</h2>
 
 <p>16. rafsi fu'ivla: a proposal</p>
 
-<h2>16. 提案：ラフシ・フヒヴラ</h2>
+<a id="4.16" name="4.16"></a><h2>16. 提案：ラフシ・フヒヴラ</h2>
 
 <p>The list of cultures represented by gismu, given in Section 15, is
 unavoidably controversial.  Much time has been spent debating whether
@@ -1995,6 +2013,20 @@ contain five letters, not four). These rafsi could then be used on a
 
 16.3) tci'ilykemcantutra
 </pre>
+<div class="nav"> 
+<div class="nav-prev"> 
+<div class="nav-section-link-prev"><a href="chapter3.html">まえ</a></div> 
+<div class="nav-section-name">第3章</div> 
+</div> 
+<div class="nav-next"> 
+<div class="nav-section-link-next"><a href="chapter5.html">つぎ</a></div> 
+<div class="nav-section-name">第5章</div> 
+</div> 
+<div class="nav-title"> 
+<div class="nav-title-title">CLL 第4章 ロジバンの形態論</div> 
+<div class="nav-title-link"><a href="./">目次</a></div> 
+</div> 
+</div>
 
 </body>
 </html>
