@@ -194,6 +194,7 @@ scalar negation	段階否定
 scope	（文中で）係る範囲	# 「掛かる」を「係る」に修正
 selbri	セルブリ
 selma'o	セルマホ
+seltau	セルタウ	# chapter9注
 semantic primitives	意味素
 sentence	文
 sequence	並び # 提案
@@ -219,6 +220,7 @@ symbol	記号	# 提案
 tag	タグ
 tanru	タンル
 tanru unit	タンルの構成単位	# 提案
+tertau	テルタウ	# chapter6注
 topic	主題	# 提案
 temporal tense	時間制
 tense	間制
