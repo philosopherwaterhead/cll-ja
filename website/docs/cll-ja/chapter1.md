@@ -11,12 +11,12 @@ sidebar_position: 1
 
 ### 1. ロジバンとは何か
 
-人工言語であるロジバンは、ログラン (創始者 James Cooke Brown ) が前身で あり、このプロジェクトは1955年にスタートした。   
+人工言語であるロジバンは、ログラン (創始者 James Cooke Brown ) が前身であり、このプロジェクトは1955年にスタートした。   
 "Loglan" という題名の記事が Scientific American に掲載された。 SF小説 The Moon Is A Harsh Mistress 等で言及される。  
-1987年からは、Logical Language Group (LLG=この本の出版元) がロジバンの 開発を牽引している。  
+1987年からは、Logical Language Group (LLG=この本の出版元) がロジバンの開発を牽引している。  
 エスペラントをはじめ人工言語はたくさんあるが、ログラン／ロジバンには以下のユニークな特長がある。  
 
-- 人間対人間のコミュニケーション、人間対コンピュータのコミュニケーショ ンの補助
+- 人間対人間のコミュニケーション、人間対コンピュータのコミュニケーションの補助
 - 文化的に中立
 - 述語理論がベース
 - 曖昧さがない、それでいて柔軟な文法 - スペルと音が一致し、音から単語が一意的に決まる
@@ -81,7 +81,7 @@ Loglan の創始者である James Cooke Brown および貢献者の Doug Landau
 ### 6. 参考文献
 
 Loglan の設立時の文書 Loglan 1: A Logical Language (James Cooke Brown, 4th ed. 1989, The Loglan Institute, Gainesville, Florida, U.S.A.) がベースである。  
-ただし、当の本人は本書の内容および Lojban の存在 そのものを否定している。 ロジバンの論理は、Word and Object (W. v.O. Quine, 1960, M.I.T. Press) によるところが大きい。  
+ただし、当の本人は本書の内容および Lojban の存在そのものを否定している。 ロジバンの論理は、Word and Object (W. v.O. Quine, 1960, M.I.T. Press) によるところが大きい。  
 特に観察文についてはロジバンの逐語訳によく似ている。 15章の否定の論理は A Natural History of Negation (Laurence Horn, 1989, University of Chicago Press) から来ている。   
 読者が本書を読むころには、教科書、ロジ英辞書、ロジバン概説の本が利用できるようになっているかもしれない。
 
