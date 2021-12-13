@@ -2,7 +2,7 @@
 hide_title: true
 description: 'Author : hatthin'
 sidebar_label: '第2章'
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 ![chapter2](../../static/img/chapter2.svg)
