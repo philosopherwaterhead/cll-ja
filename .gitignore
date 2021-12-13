@@ -3,14 +3,12 @@
 .jekyll-cache/
 .jekyll-metadata
 
-# Dependencies
+build/
 node_modules/
 
-# Generated files
 .docusaurus
 .cache-loader
 
-# Misc
 .DS_Store
 .env.local
 .env.development.local
