@@ -9,7 +9,7 @@ const config = {
   title: 'The Complete Lojban Language',
   tagline: '日本語抄訳プロジェクト',
   url: 'https://ponjbogri.github.io',
-  baseUrl: '/',
+  baseUrl: '/cll-ja/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
