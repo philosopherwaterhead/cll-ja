@@ -8,7 +8,7 @@ sidebar_label: "リンク先一覧"
 ## ロジバン大全: The Complete Lojban Language 日本語抄訳
 
 - 番号順に読むのが最良とは限らない。初心者が読むための章の順序が提案されている。
-- この文書の手直しをして pull request してくださるボランティアを随時募集している。
+- [この文書の手直しをして pull request してくださるボランティアを随時募集している。](https://mw.lojban.org/papri/the_Complete_Lojban_Language_%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%8A%84%E8%A8%B3)
 
  1. [本書について　「ロジバンの世界へようこそ」](cll-ja/chapter1.md)
  2. [ロジバン文法概説](cll-ja/chapter2.md)
