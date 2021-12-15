@@ -75,6 +75,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/ponjbogri/cll-ja',
               },
+              {
+                label: 'Lojban.org',
+                href: 'https://mw.lojban.org/papri/Lojban'
+              },
             ],
           },
         ],
