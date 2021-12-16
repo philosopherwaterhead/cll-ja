@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ![chapter2](../../static/img/chapter2.svg)
 
-## 第２章 ロジバン文法概説
+## 第2章 : ロジバン文法概説
 
 ### 1. ブリディの（bridi）の概念
 
