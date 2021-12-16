@@ -32,17 +32,6 @@ const sidebars = {
       items: ['peg/about-peg'],
     },
   ],
-
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['hello'],
-    },
-  ],
-   */
 };
 
 module.exports = sidebars;
