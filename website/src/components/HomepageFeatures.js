@@ -5,7 +5,6 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: '計画的に構成された言語',
-    //Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     Svg: require('../../static/img/chapter1.svg').default,
     description: (
       <>
