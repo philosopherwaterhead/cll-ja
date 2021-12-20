@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="714"
+   height="665.42853"
+   id="svg3053"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="lujvo-veljvo.svg">
+  <defs
+     id="defs3055" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="356.28571"
+     inkscape:cy="515.57142"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3058">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="blabi">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3960"
+       width="722.85712"
+       height="668.57141"
+       x="0"
+       y="-0.28575787" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.714286,-382.50508)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#0000ff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3063"
+       sodipodi:cx="390"
+       sodipodi:cy="723.79077"
+       sodipodi:rx="350"
+       sodipodi:ry="325.71426"
+       d="M 740,723.79077 C 740,903.67779 583.29966,1049.505 390,1049.505 196.70034,1049.505 40,903.67779 40,723.79077 40,543.90375 196.70034,398.07651 390,398.07651 c 193.29966,0 350,145.82724 350,325.71426 z"
+       transform="translate(-14.285714,-8.5714286)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff5555;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3065"
+       sodipodi:cx="452.85715"
+       sodipodi:cy="820.93359"
+       sodipodi:rx="178.57143"
+       sodipodi:ry="174.28572"
+       d="m 631.42857,820.93359 c 0,96.25535 -79.94915,174.28572 -178.57142,174.28572 -98.62228,0 -178.57143,-78.03037 -178.57143,-174.28572 0,-96.25534 79.94915,-174.28572 178.57143,-174.28572 98.62227,0 178.57142,78.03038 178.57142,174.28572 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="174.28572"
+       y="486.64792"
+       id="text3835"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3837"
+         x="174.28572"
+         y="486.64792">veljvo を構成する </tspan><tspan
+         sodipodi:role="line"
+         x="174.28572"
+         y="536.64795"
+         id="tspan4123">gismu (seltau, tertau) </tspan><tspan
+         sodipodi:role="line"
+         x="174.28572"
+         y="590.77795"
+         id="tspan4125">の場所に入るもの</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;font-family:Sans"
+       x="305.71429"
+       y="789.50507"
+       id="text3839"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="305.71429"
+         y="789.50507"
+         id="tspan3843">lujvo の場所に</tspan><tspan
+         sodipodi:role="line"
+         x="305.71429"
+         y="843.63507"
+         id="tspan2995">入るもの</tspan></text>
+  </g>
+</svg>
