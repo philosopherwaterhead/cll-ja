@@ -87,7 +87,7 @@ Loglan の設立時の文書 Loglan 1: A Logical Language (James Cooke Brown, 4t
 
 ### 7. 絵のキャプション
 
-`（省略）`
+**（省略）**
 
 ### 8. ライセンス表示
 
