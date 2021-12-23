@@ -31,4 +31,69 @@ sidebar_position: 4
 - ブリヴラ (brivla): 内容語 come, red, doctor, freely  
 - シメネ (cmene): 固有名 James, Afghanistan, Pope John Paul II  
   
+### 2.  シマヴォ (cmavo)
 
+シマヴォは、機能語 （英語の冠詞, 接続詞, 前置詞, 数, 句読点, etc. に相当）である。  
+100個以上のサブカテゴリ(セルマホ)がある。これらは 5～19章で扱い、20章でまとめる。  
+Standard cmavo occur in four forms defined by their word structure.  
+Here are some examples of the various forms: 語の構造によって、４つの形式がある：  
+  
+```
+V形    .a .e .i .o .u
+CV形   ba ce di fo gu
+VV形   .au .ei .ia .o'u .u'e
+CVV形  ki'a pei mi'o coi cu'u  
+```  
+  
+VVV+, CVVV+ の形、および、 `x` で始まるものは、実験用に予約してある。（例： ku’a'e sau’e bai’hai “x”+VV）  
+実験用とは、正式な仕様、辞書には入っておらず、話者により使用される、文法拡張用の”非常口”である。  
+VVは、１節の二重母音にプラスして、以下の１０個の二重母音が可能：  
+  
+```
+.ia .ie .ii .io .iu
+.ua .ue .ui .uo .uu 
+```
+  
+Cyの形は、ロジバンのアルファベットを表す。（17章）  
+複合シマヴォは、２つ以上シマヴォを連結したものであり、分割した時と意味は同じ。  
+二重子音がなく、母音で終わるという特徴から、簡単に特定できる。(例:2.1, 2.2, 2.3)  
+```
+2.1)  .iseci’i
+      .i se ci’i
+2.2)  punaijecanai
+      pu nai je ca nai
+2.3)  ki’e.u’e
+      ki’e .u’e 
+```
+  
+母音で始まる語は、全てポーズ `.` が語頭に必要。  
+  
+
+```
+2.4)  ki'e'u'e
+```
+は、実験用の４母音シマヴォである。  
+  
+
+```
+2.5)  cy.ibu.abu
+      cy. .ibu .abu
+```
+では、前後の語のポーズがくっついている。シマヴォ, 複合シマヴォには強調が不要。  
+２音節シマヴォでは、普通最初の母音につける。  
+```
+2.6)  .e'o ko ko kurji
+      .E'o ko ko KURji
+```
+ある語の最後と、次の語の最初の音節を強調する場合、その間に声門閉鎖を入れる。  
+  
+
+```
+2.7)  le re nanmu （”２人の男”）
+```
+の場合、  
+```
+2.8)   LE re NANmu　→　OK
+2.9)   le RE. NANmu → ポーズを挿入すればOK
+2.10)  le re NANmu → OK （最も一般的）
+```
