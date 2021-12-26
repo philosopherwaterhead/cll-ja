@@ -176,3 +176,94 @@ Cyの形は、ロジバンのアルファベットを表す。（17章）
 (この場合、`r`が無いと soi sai という２つのシマヴォに分割されてしまう)   
 ルジヴォの重要な点は、書いている・話している時に作ることができることであり、ルールに沿っていれば、おそらく通じるだろう。
   
+### 6.  ラフシ (rafsi)  
+
+ギスムには2個から5個のラフシがあるが、各ラフシは必ず1個のギスムに対応する。  
+ルジヴォの作り方に沿っていればどれを使ってもいい。  
+どれを辞書標準形にするか、という並び替えアルゴリズムがある (12節を参照)。ギスムには必ず２つ以上の rafsi がある。  
+これは、-CVC/CV or -CCVCV(gismu そのもの、5文字 rafsi) と、-CVC/C- or -CCVC- (4文字 rafsi) である。  
+（ハイフンはどの位置で他の rafsi とくっつくかを表したもの）４・５文字 rafsi から作られた lujvo は、「長い lujvo」  
+もしくは「非縮退 lujvo」と呼ばれる。
+  
+```
+6.1)  mamtypatfu ← mamta patfu
+     母 の 父 → 母方の祖父
+6.2)  lerfyliste ← lerfu liste
+     文字リスト → アルファベット文字
+6.3)  nancyprali ← nanca prali
+     年 の 利益 → 年収
+6.4)  prunyplipe ← pruni plipe
+     弾力性 のある ジャンプ → ばね
+6.5)  vancysanmi ← vanci sanmi
+     夜 の 食事 → 夕食 
+```
+  
+短いラフシ -CVC- -CCV- -CVV- を最高３つ持つ可能性がある。  
+gismu が持つrafsi の数は、「lujvo を作る上でどのぐらい役に立つ可能性があるか」による。  
+zmadu (～以上）は、英語の “-er” を作る上で役に立つので、 -zma- -mau- の２つのラフシがある （例： labmau “より白い”)。  
+  
+-CVC形, -CCV形, -CVV形は、ギスムに対して最大１個ずつしかない。  
+-CCV- と-CVV- の両方を持つものはまれであり、-CVC- も含めた３つを持つものはもっとまれである。  
+-CVC- と、CCV, CVVのどちらか、を持つものは多い。  
+  
+３文字しかないので、「短い rafsi 空間」を有効に使う必要がある。しかも認識しやすいように文字はすべて元となるギスムから取る。  
+CVC/CV 型のギスムである sakli に対して、-sak-, -sal-, -sa'i- ... などがあるが、実際の短いラフシは -sal- だけである。  
+CCV/CV 型のギスムである blaci に対して、-bac-, -lac-, -ba'i- などがあるが、これらは他のギスムに割り当てられており、  
+実際のラフシはこの中には無い（ラフシは自由に割り当てることはできない）。  
+  
+-CVV- は、二重母音を含まなければならず、CCV は、開頭二重子音を含まなければならない。 ラフシが割り当てられているシマヴォもある。  
+例えば、10個の数字には CVC 形のラフシが割り当てられている。短いラフシのみで構成されたルジヴォは完全縮退ルジヴォと呼ばれる。  
+  
+```
+6.6)  cumfri
+      “cumki lifri”(可能な 経験)から
+      “可能な 経験”
+6.7)  klezba
+      “klesi zbasu”(種類 メーカー)から
+      “メーカーの種類”
+6.8)  kixta'a
+      “krixa tavla”(叫ぶ 話)から
+      “大声の会話”
+6.9)  sniju'o
+      “sinxa djuno”(標識 知っている)から
+      “知っているというサイン？”
+6.10)  mampa'u
+       “mamta patfu” から
+       “母方の祖父”
+6.11)  lerste
+       “lerfu liste”(文字 リスト)から
+       “文字リスト”＝アルファベット
+```
+CVC形は、ルジヴォの最後には使えない。  
+ルジヴォは必ず６文字以上になる。 ハイフン文字が必要になることがある。これは、`y`,`r`,`n` のいずれかである。  
+CVC形をつなぐときに許可されていない二重子音ができたり、２つの単語に分割されてしまう場合は、場合は、`y`を挿入する。  
+例："pante tavla" → patyta'a, "mudri siclu" → "mudysiclu"。  
+  
+`y`ハイフンは、4文字ラフシを連結する時にも使う。  
+例：zunle jamfu → zunlyjamfu CVV-CVV 形の場合は、子音ペアが無くなるので `r`/`n` ハイフンが必要である。  
+  
+CVV-CVC/CV or CVV-CCVCVの時にも、分割を防ぐために必要である。  
+３つ以上のラフシからなるルジヴォでは、必ずハイフンが必要である。 `r`ハイフンの次の文字が`r`である場合は、`n`ハイフンを使う。  
+`zei` をはさんでルジヴォを作る方法もある。ラフシをもたないシマヴォや、シメネ、フヒヴラは、この方法を使う。  
+```
+6.12)  bridi zei valsi ( = brivla)
+6.13)  xy. zei kantu
+       X ray
+6.14)  kulnr,farsi zei lolgai
+       Farsi floor-cover
+       Persian rug
+6.15)  na'e zei .a zei na'e zei by. livgyterbilma
+       non-A, non-B liver-disease
+       non-A, non-B hepatitis
+6.16)  .cerman. zei xarnykarce
+       Sherman war-car
+       Sherman tank
+```
+例 6.15 から zei を抜いた文は、ブリヴラで終わってはいなく、文法的ではない？？  
+```
+6.17)  na'e zei .a zei na'e zei by. zei livgyterbilma
+       non-A-non-B-hepatitis
+```
+こうすることにより、全体が１つのルジヴォとなり、`bilma` の場所構造を取る。 `zei` フレーズの中でラフシは使えない（単語ではないから）。  
+  
+
