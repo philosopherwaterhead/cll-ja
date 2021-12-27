@@ -1,6 +1,6 @@
 # The Complete Lojban Language 日本語抄訳プロジェクト
 
-![PRs-welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Powered-by](https://img.shields.io/badge/powered%20by-Docusaurus%202-brightgreen)
+[![PRs-welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](http://mw.lojban.org/papri/the_Complete_Lojban_Language_%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%8A%84%E8%A8%B3) [![Powered-by](https://img.shields.io/badge/powered%20by-Docusaurus%202-brightgreen)](https://docusaurus.io/)
 
 ## 概要
 The Complete Lojban Language の日本語抄訳が格納されているレポジトリです。  
