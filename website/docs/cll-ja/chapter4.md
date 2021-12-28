@@ -266,4 +266,179 @@ CVV-CVC/CV or CVV-CCVCVの時にも、分割を防ぐために必要である。
 ```
 こうすることにより、全体が１つのルジヴォとなり、`bilma` の場所構造を取る。 `zei` フレーズの中でラフシは使えない（単語ではないから）。  
   
+### 7.  フヒヴラ(fu'ivla)
+  
+専門用語や固有表現（生物、食物、科学用語）に対してはタンルやルジヴォは適切ではない。   
+語を借用するのに４つの段階がある。第１段階は、`la'o` で引用する方法である。  
+  
+`7.1)  me la'o ly. spaghetti .ly.`
+これは、「x1 はある量のスパゲティである」という場所構造を持つ。 第２段階は、名前のロジバン化である。  
+  
+`7.2)  me la spagetis.`  
+これらは特に会話の中で有効である。 （第３段階として）ロジバン化した名前のラフシを付けて、語の意味を制限・分類し、曖昧になるのを防ぐことができる。  
+他のブリヴラと同様に、複数の意味を持つことができないからである。 第４段階では、ラフシによる分類は無くなり、さらに短縮される（第１６節）。   
+フヒヴラは形によって、ギスムとシマヴォから分離できる。これらは、他の言語から借用（さらに正確に言えば、コピー）される。  
+フヒヴラは、  
+  
+- 1) 最初の５文字に（開頭/許可）子音ペアを持つ。
+- 2) １つ以上の母音で終わる
+- 3) ギスム、ルジヴォ、もしくはシマヴォ、ギスム、ルジヴォの組み合わせであってはならない。CVシマヴォが付いたものはルジヴォの形であってははならない (slinku'i test)
+- 4) `y` を含まない
+- 5) 後ろから２音節目に強調がある。
+  
+語の最初以外は、子音連続は許可ペアから構成されてさえいればよい。   
+第３段階のフヒヴラも簡単につくれるが、第４段階のフヒヴラは注意を要する。 以下に、第３段階のフヒヴラを作る手順を示す。
+  
+- 1) 全ての二重子音と黙字を消す
+- 2) ロジバンの近い音に変換する
+- 3) 最後が母音で終わるように追加・削除する
+- 4) 最初が子音で始まるように追加・削除する
+- 5) 4文字ラフシを先頭につける。 `r` または `n` または `l` （優先度順） のハイフンを付ける
+- 6) 最後から２番目の音節にアクセントを置く
+  
+本節ではハイフンをコンマで強調しているが、実際に表記する際にはこれらのコンマは不要である。  
+  
+```
+7.3)  spaghetti (英語・イタリア語から)
+      spageti (ロジバン化)
+      cidj,r,spageti (長いラフシ cidja-食物 を付与)
+      dja,r,spageti (短いラフシを付与)
+```
+```
+7.4)  Acer (楓の木の学名)
+      acer (ロジバン化)
+      xaceru (最初の子音、最後の母音を追加)
+      tric,r,xaceru (長いラフシ tricu-木 を付与)
+      ric,r,xaceru (短いラフシを付与)
+```
+```
+7.5)  brie (フランス語)
+      bri (ロジバン化)
+      cirl,r,bri (ラフシを付与 cirla-チーズ)
+```
+```
+7.6)  cobra
+      kobra (ロジバン化)
+      sinc,r,kobra (ラフシを付与 since-蛇)
+```
+```
+7.7)  quark
+      kuark (ロジバン化)
+      kuarka (母音を付与)
+      sask,r,kuarka (ラフシを付与 saske-科学)
+```
+  
+:::note
+注：`spageti`と`kuarka`は有効な第４段階フヒヴラである。第４段階フヒヴラの`integral`は、英語の`"integral"`のようにそれだけで「積分」の意味をもたない。`cmaci`(数学)をつけて`cmacrntegrale` `cmacrnintegrale` とする。建築の「構成」は`dinju`(建物)か`tarmi`(形)をつけて`djinrnintegrale`か`tarmrnintegrale`とする。
+:::
+  
+```
+7.8)  bang,r,blgaria
+     ブルガリア語
+7.9)  kuln,r,blgaria
+     ブルガリアの文化
+7.10)  gugd,r,blgaria
+      ブルガリア
+7.11)  bang,r,kore,a
+      韓国語
+7.12)  kuln,r,kore,a
+      韓国の文化
+```
+一般的には、土着の語`Chosen`を`Korea`の代わりに使うべきである（理解が困難になる場合を除いて。）  
+  
+### 8.  シメネ (cmene)
+  
+シメネは、ロジバン化した名前である。  
+ロジバン音声系列で識別できる必要があるが、なるべく修正は小さくなっている。以下に英語名の例を示す：  
 
+```
+8.1)  djim.
+      Jim
+8.2)  djein.
+      Jane
+8.3)  .arnold.
+      Arnold
+8.4)  pit.
+      Pete
+8.5)  katrinas.
+      Katrina
+8.6)  kat,r,in. ("ka”に強調)
+      Catherine
+8.7)  katis.
+      Cathy
+8.8)  keit.
+      Kate
+```
+  
+名前は、子音でおわり、休止が続く。大文字で強調が指定されていなければ、後ろから２番目の音節を強調する。複数の部分を連結することもできる。  
+  
+```
+8.9)   djan. djonz.
+8.10)  djandjonz.
+```
+  
+名付け主が、名前の正式な綴りを決めることができるが、最後はロジバンの子音で終わる必要がある。  
+名前に`la`,`lai`,`doi`という連続を含んではいけない（直前に子音がある場合を除く）。  
+例えば、`laplas.` という名前は、`la plas.`、 `ilanas.`という名前は、`i la nas.`と解釈されるからである。  
+  
+ロジバンの名前は、  
+- 1) １個以上の（許可）子音連続で終わる 
+- 2) `y` を通常の母音として含んでも良い  
+- 3) 休止 (`.`)が後に来る 
+- 4) どの文節を強調しても良い（大文字で書く）  
+  
+ロジバンの語から名前を作ることもできる。  
+  
+```
+8.11)  pav.
+       the One
+       シマヴォ“pa”(1) のラフシ “pav”から
+8.12)  sol.
+       the Sun
+       ギスム “solri” (太陽) から
+8.13)  ralj.
+       チーフ (肩書き)
+       ギスム “ralju”（第１の）から
+8.14)  nol.
+       Lord/Lady
+       ギスム “nobli”のラフシ“nol”(高貴な)から
+```
+  
+名前をロジバン化するには、  
+- 1) ２重子音、黙字を削除する
+- 2) 母音で終わる場合、`s`か`n` を追加する
+- 3) ロジバンの近い音に変換する
+- 4) 後ろから２番目に強調を置く。そうでない場合は大文字とコンマを使って元の強調を残す。
+- 5) 許可されていない子音連続には `y` 等母音を挟む
+- 6) `la`, `lai`, `doi` を含まないようにする (`ly` `ly'i` `dai` `do'i` に置き換える)  
+  
+学名は`la'o`を使って直接引用する(19章) か、以下のルールで変換する。 （省略）  
+```
+English “Mary” meris.
+                 or meiris.
+English “Smith” smit.
+English “Jones” djonz.
+English “John” djan. or jan. (American)
+                 or djon. or jon. (British)
+English “Alice” .alis.
+English “Elise” .eLIS.
+English “Johnson” djansn.
+English “William” .uiliam.
+                    or .uil,iam.
+English “Brown” braun.
+English “Charles” tcarlz.
+French “Charles” carl.
+French “De Gaulle” dyGOL.
+German “Heinrich” xainrix.
+Spanish “Joaquin” xuaKIN.
+Russian “Svetlana” sfietlanys.
+Russian “Khrushchev” xrucTCOF.
+Hindi “Krishna” kricnas.
+Polish “Lech Walesa” lex. va,uensas.
+Spanish “Don Quixote” don. kicotes.
+                        or modern Spanish: don. kixotes.
+                        or Mexican dialect: don. ki'otes.
+Chinese “Mao Zedong” maudzydyn.
+Japanese “Fujiko” fudjikos.
+                    or fujikos.
+```
