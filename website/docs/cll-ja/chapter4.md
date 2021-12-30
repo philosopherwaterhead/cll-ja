@@ -434,6 +434,6 @@ CVV-CVC/CV or CVV-CCVCVの時にも、分割を防ぐために必要である。
 |ロシア語|Khrushchev|xrucTCOF.|
 |ヒンドゥー語|Krishna|kricnas.|
 |ポーランド語|Lech Walesa|lex. va,uensas.|
-|スペイン語|Don Quixote|don. kicotes. または（現代スペイン語）don. kixotes. または（メキシコ方言）don. ki'otes.|
+|スペイン語|Don Quixote|don. kicotes. （現代スペイン語の場合）don. kixotes. （メキシコ方言の場合）don. ki'otes.|
 |中国語|Mao Zedong|maudzydyn.|
 |日本語|Fujiko|fudjikos. または fujikos.|
