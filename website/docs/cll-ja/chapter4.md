@@ -413,32 +413,27 @@ CVV-CVC/CV or CVV-CCVCVの時にも、分割を防ぐために必要である。
 - 6) `la`, `lai`, `doi` を含まないようにする (`ly` `ly'i` `dai` `do'i` に置き換える)  
   
 学名は`la'o`を使って直接引用する(19章) か、以下のルールで変換する。 （省略）  
-```
-English “Mary” meris.
-                 or meiris.
-English “Smith” smit.
-English “Jones” djonz.
-English “John” djan. or jan. (American)
-                 or djon. or jon. (British)
-English “Alice” .alis.
-English “Elise” .eLIS.
-English “Johnson” djansn.
-English “William” .uiliam.
-                    or .uil,iam.
-English “Brown” braun.
-English “Charles” tcarlz.
-French “Charles” carl.
-French “De Gaulle” dyGOL.
-German “Heinrich” xainrix.
-Spanish “Joaquin” xuaKIN.
-Russian “Svetlana” sfietlanys.
-Russian “Khrushchev” xrucTCOF.
-Hindi “Krishna” kricnas.
-Polish “Lech Walesa” lex. va,uensas.
-Spanish “Don Quixote” don. kicotes.
-                        or modern Spanish: don. kixotes.
-                        or Mexican dialect: don. ki'otes.
-Chinese “Mao Zedong” maudzydyn.
-Japanese “Fujiko” fudjikos.
-                    or fujikos.
-```
+  
+|言語|名前|ロジバンで変換後の名前|  
+|:-:|:-:|:-:|  
+|英語|Mary|meris. または meiris.|  
+|英語|Smith|smit.|  
+|英語|Jones|djonz.|  
+|英語|John|（アメリカ人の場合）djan. または jan. （イギリス人の場合）djon. または jon.|  
+|英語|Alice|.alis.|  
+|英語|Elise|.eLIS.|  
+|英語|Johnson|djansn.|  
+|英語|William|.uiliam. or .uil,iam.|  
+|英語|Brown|braun.|
+|英語|Charles|tcarlz.|
+|フランス語|Charles|carl.|
+|フランス語|De Gaulle|dyGOL.|
+|ドイツ語|Heinrich|xainrix.|
+|スペイン語|Joaquin|xuaKIN.|
+|ロシア語|Svetlana|sfietlanys.|
+|ロシア語|Khrushchev|xrucTCOF.|
+|ヒンドゥー語|Krishna|kricnas.|
+|ポーランド語|Lech Walesa|lex. va,uensas.|
+|スペイン語|Don Quixote|don. kicotes. または（現代スペイン語）don. kixotes. または（メキシコ方言）don. ki'otes.|
+|中国語|Mao Zedong|maudzydyn.|
+|日本語|Fujiko|fudjikos. または fujikos.|
