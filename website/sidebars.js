@@ -24,7 +24,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'TCLL各章',
-      items: ['cll-ja/chapter1', 'cll-ja/chapter2', 'cll-ja/chapter3', 'cll-ja/chapter4'],
+      items: ['cll-ja/chapter1', 'cll-ja/chapter2', 'cll-ja/chapter3', 'cll-ja/chapter4', 'cll-ja/chapter6'],
     },
     {
       type: 'category',
