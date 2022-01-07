@@ -711,10 +711,9 @@ mi [cu] tavla
 `mo` で、正しい回答を得るには話し手と回答者の間に協力が必要なのは明らかである。  
 質問があいまいな場合、話し手は、タンルなどの複雑な構文を用いて、より具体的に質問する必要がある。  
 （タンルは2章9節を参照）  
-  
-`# 以下未翻訳`  
-It is perfectly permissible for the respondent to fill in other unspecified places in responding to a "mo" question.   
-Thus, the respondent in Example 2.70 could have also specified an audience, a topic, or a language in the response.
+    
+回答者は `mo` の質問に答える際に他の未言及の場所を埋めて答えても全然構わない。  
+したがって、例 2.70 の回答者は自分の回答の中で、聞き手や話題や使用言語に言及しても良かった。  
 
 最後に、"はい" か "いいえ" で答えられる、次のような疑問文を考える必要がある。
 
@@ -730,7 +729,7 @@ Thus, the respondent in Example 2.70 could have also specified an audience, a to
 シマヴォ `xu` は、ブリディの前に置かれると、そのブリディが述べられているように真であるのかを尋ねる。  
   
 **例 2.73**  
-xu do tavla mi
+xu do tavla mi  
 これは本当か？あなたが私に話していることは。  
 
 例 2.73 は 例 2.71 のロジバン訳である。  
@@ -759,7 +758,7 @@ go'i
   
 または、  
 
-**例 2.77**
+**例 2.77**  
 le tavla cu kanro  
 話者は健康です。  
    
