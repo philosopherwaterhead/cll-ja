@@ -31,6 +31,7 @@ sidebar_position: 2
 その中心的な品詞（`＃上の例では、名詞、動詞、形容詞に相当`）を、 セルブリ "**_selbri_**" と呼ぶ。  
 項 "_argument_" に当たるものは、ロジバンでは スムティ "**_sumti_**" と呼ぶ。  
 
+![chapter2_1](../../static/img/chapter2_1.svg)
 
 :::note \# 訳者補注
 
