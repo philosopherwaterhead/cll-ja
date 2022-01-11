@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## 第1章 : 本書について 「ロジバンの世界へようこそ」
 
-### 1. ロジバンとは何か
+### 1.1 ロジバンとは何か
 
 人工言語であるロジバンは、ログラン (創始者 James Cooke Brown ) が前身であり、このプロジェクトは1955年にスタートした。   
 "Loglan" という題名の記事が Scientific American に掲載された。 SF小説 The Moon Is A Harsh Mistress 等で言及される。  
@@ -27,7 +27,7 @@ sidebar_position: 1
 - 創作・科学、理論的・実践的な応用ができる
 - 翻訳・詩・散文
 
-### 2. 本書の内容
+### 1.2 本書の内容
 
 この本は、言語の文法をなるべくカバーする「参照文法」である。  
 ロジバンは多くの特徴を持つ言語で、特徴の持つ機能を「発見」する努力がなされていた。  
@@ -45,7 +45,7 @@ sidebar_position: 1
 相互参照はあまり無いが、索引を充実させた。 各章のタイトルは、言葉遊びになっているものがある。   
 １章は English As We Speak It in Ireland (P. W. Joyce) のもじりであり、 "Lojbanistan" とは Lojban を母語として話す人々の仮想的な国である。  
 
-### 3. 本書の表記方法
+### 1.3 本書の表記方法
 
 各章には節があり，その中には解説文、例文、表などがある。 本書が独学用と参考用として使えるように特徴的な表記を取っている。
 ```
@@ -63,13 +63,13 @@ sidebar_position: 1
 表の構成は、ロジバンの単語、文法カテゴリ（大文字で表記）、語義・意味の ３列からなる。  
 専門用語として用いられている「ロジバン用語」は、第２章の末尾のリストにて解説されている。  
 
-### 4. 免責事項
+### 1.4 免責事項
 
 本書で使用している例は実際の人物・場所・組織とは関係なく、類似性は偶然 であり意図したものではない。   
 gismu, lujvo の定義や配列構造は、英ロジ辞書（本書執筆時点で未出版）のも を優先する。  
 [# オンライン辞書](https://jbovlaste.lojban.org/)
 
-### 5. 謝辞
+### 1.5 謝辞
 
 本書のメイン著者は John Cowan （「私」）であるが、他の人が書い て私が修正したものがある。  
 第２章は Athelstan, Nora Tansky LeChevalier, Bob LeChevalier によって書かれた個別の文章を融合したものである。  
@@ -78,17 +78,17 @@ Ivan Derzhanski の自然言語研究の結果を第5章では使っている。
 本書の絵は Nora Tansky LeChevalier によるものである。   
 Loglan の創始者である James Cooke Brown および貢献者の Doug Landauer, Jeff Prothero, Scott Layson, Jeff Taylor, and Bob McIvor に感謝する。
 
-### 6. 参考文献
+### 1.6 参考文献
 
 Loglan の設立時の文書 Loglan 1: A Logical Language (James Cooke Brown, 4th ed. 1989, The Loglan Institute, Gainesville, Florida, U.S.A.) がベースである。  
 ただし、当の本人は本書の内容および Lojban の存在そのものを否定している。 ロジバンの論理は、Word and Object (W. v.O. Quine, 1960, M.I.T. Press) によるところが大きい。  
 特に観察文についてはロジバンの逐語訳によく似ている。 15章の否定の論理は A Natural History of Negation (Laurence Horn, 1989, University of Chicago Press) から来ている。   
 読者が本書を読むころには、教科書、ロジ英辞書、ロジバン概説の本が利用できるようになっているかもしれない。
 
-### 7. 絵のキャプション
+### 1.7 絵のキャプション
 
 **（省略）**
 
-### 8. ライセンス表示
+### 1.8 ライセンス表示
 
 Copyright © 1997 by The Logical Language Group, Inc. 本書の複製・再配布は、この著作権およびライセンスを表示する限り認められる。 本書を改変し配布することは、この著作権およびライセンスを表示、変更点を 明示し、全体を同じライセンスの元で配布する限り認められる。 本書の翻訳の配布についても上記の改変と同じ条件であるが、本ライセンスを LLG によって認められた翻訳によって表示しても良い点が異なる。 第21章の内容はパブリック・ドメインである。
