@@ -179,8 +179,8 @@ sidebar_position: 3
 
 ### 3.4 二重母音と音節子音
 
-ロジバンには16の二重母音が存在する。二重母音は2つの要素によって構成される母音である。  
-短い母音と、それに対して、先行（an on-glide）または後続（an off-glide）する、唇側（IPA [w]）か口蓋側（IPA [j]）のわたり音である。   
+ロジバンには16の二重母音が存在する。二重母音は2つの要素、短い母音と半母音によって構成される母音である。  
+半母音は両唇半母音 (IPA [w]) または硬口蓋半母音 (IPA [j]) であり、母音に先行（開始半母音）または後続（終了半母音）する。  
 二重母音は常に単一の音節で構成される。  
   
 ロジバンでは、母音とは音節の核となる、比較的長い音声のことを指す。  
@@ -198,25 +198,25 @@ sidebar_position: 3
 
 |二重母音|IPA|説明|  
 |:-:|:-:|:--|
-|ai|[aj]|an open vowel with palatal off-glide|
-|ei|[ɛj]|a front mid vowel with palatal off-glide|
-|oi|[oj]|a back mid vowel with palatal off-glide|
-|au|[aw]|an open vowel with labial off-glide|
-|ia|[ja]|an open vowel with palatal on-glide|
-|ie|[jɛ]|a front mid vowel with palatal on-glide|
-|ii|[ji]|a front close vowel with palatal on-glide|
-|io|[jo]|a back mid vowel with palatal on-glide|
-|iu|[ju]|a back close vowel with palatal on-glide|
-|ua|[wa]|an open vowel with labial on-glide|
-|ue|[wɛ]|a front mid vowel with labial on-glide|
-|ui|[wi]|a front close vowel with labial on-glide|
-|uo|[wo]|a back mid vowel with labial on-glide|
-|uu|[wu]|a back close vowel with labial on-glide|
-|iy|[jə]|a central mid vowel with palatal on-glide|
-|uy|[wə]|a central mid vowel with labial on-glide|  
+|ai|[aj]|硬口蓋終了半母音付きの広母音 |
+|ei|[ɛj]|硬口蓋終了半母音付きの前舌中央母音|
+|oi|[oj]|硬口蓋終了半母音付きの後舌中央母音|
+|au|[aw]|両唇終了半母音付きの広母音|
+|ia|[ja]|硬口蓋開始半母音付きの広母音|
+|ie|[jɛ]|硬口蓋開始半母音付きの前舌中央母音|
+|ii|[ji]|硬口蓋開始半母音付きの前舌狭母音|
+|io|[jo]|硬口蓋開始半母音付きの後舌中央母音|
+|iu|[ju]|硬口蓋開始半母音付きの後舌狭母音|
+|ua|[wa]|両唇開始半母音付きの広母音|
+|ue|[wɛ]|両唇開始半母音付きの前舌中央母音|
+|ui|[wi]|両唇開始半母音付きの前舌狭母音|
+|uo|[wo]|両唇開始半母音付きの後舌中央母音|
+|uu|[wu]|両唇開始半母音付きの後舌狭母音|
+|iy|[jə]|硬口蓋開始半母音付きの中舌中央母音|
+|uy|[wə]|両唇開始半母音付きの中舌中央母音|  
 （これらの二重母音のほとんどは英語に類似したものが存在する。例については、3章11節を参照。）  
   
-上記の最初の4つの二重母音（off-glideのある `ai`、`ei`、`oi`、`au`）は、ほとんどの種類の単語で自由に使用される。  
+上記の最初の4つの二重母音（終了半母音のある `ai`、`ei`、`oi`、`au`）は、ほとんどの種類の単語で自由に使用される。  
 次の10個の二重母音は、独立した単語か、ロジバン化された名前・借用語でのみ使用される。  
 最後の2つ（`iy`、`uy`）はロジバン化された名前でのみ使用される。  
    
