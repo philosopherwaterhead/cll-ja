@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/chapter7.svg').default,
     description: (
       <>
-        コンピュータによる文章の解析が容易であり、プログラミング言語としても扱うことができます。
+        文章の解析が容易であり、人工知能の分野で実用化が期待されています。
       </>
     ),
   },
